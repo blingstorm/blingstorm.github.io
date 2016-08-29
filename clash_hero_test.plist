@@ -16,8 +16,8 @@
                         </array>
                         <key>metadata</key>
                         <dict>
-                                <key>bundle-identifier</key>
-                                <string>com.blingstorm.bubble</string>
+                                <key>clash-identifier</key>
+                                <string>com.blingstorm.clash</string>
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
