@@ -16,7 +16,7 @@
                         </array>
                         <key>metadata</key>
                         <dict>
-                                <key>clash-identifier</key>
+                                <key>bundle-identifier</key>
                                 <string>com.blingstorm.clash2</string>
                                 <key>kind</key>
                                 <string>software</string>
