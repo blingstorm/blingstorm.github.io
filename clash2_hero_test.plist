@@ -11,7 +11,7 @@
                                         <key>kind</key>
                                         <string>software-package</string>
                                         <key>url</key>
-                                        <string>http://pub.blingstorm.com.cn:98/clash/clash-hero-for-test.ipa</string>
+                                        <string>http://pub.blingstorm.com.cn:98/clash/clash2-hero-for-test.ipa</string>
                                 </dict>
                         </array>
                         <key>metadata</key>
@@ -21,7 +21,7 @@
                                 <key>kind</key>
                                 <string>software</string>
                                 <key>title</key>
-                                <string>Clash Hero 测试版</string>
+                                <string>Clash2 Hero 测试版</string>
                         </dict>
                 </dict>
         </array>
